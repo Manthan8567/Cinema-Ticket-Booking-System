@@ -6,6 +6,3 @@ A console application made with visual studio using Advanced Data Structure conc
 
 https://github.com/Manthan8567/Final_Project_Information_System_Development/assets/124721292/16225133-eba0-4de4-8e69-e8ed491a75da
 
-
-
-[CV.pdf](https://github.com/Manthan8567/IMI-Run/files/14604911/CV.pdf)
