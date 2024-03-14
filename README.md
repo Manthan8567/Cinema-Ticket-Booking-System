@@ -8,3 +8,4 @@ https://github.com/Manthan8567/Final_Project_Information_System_Development/asse
 
 
 
+[CV.pdf](https://github.com/Manthan8567/IMI-Run/files/14604911/CV.pdf)
